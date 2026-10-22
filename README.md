@@ -1,2 +1,2 @@
 # WindowedGameProject
-This repository's mission is to provide code for allowing users to create their own games on the window of their desktop.
+This repository's mission is to provide code and help for developers hoping  to create their own games that sit on the window of their desktop.
